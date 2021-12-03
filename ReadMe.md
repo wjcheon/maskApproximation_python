@@ -21,7 +21,12 @@ Vatech Vision reasearch Center (CT image reconstruction, 2012)
 
 **Interest field**  
 Medical physics: Monte-carlo simulation, Development quality assurance tool  
-Machine learning and Deep learning.  
+Machine learning and Deep learning. 
 
+**Reference**  
+[1] https://stackoverflow.com/questions/37742358/sorting-points-to-form-a-continuous-line  
+  
+
+  
 wonjoongcheon@gmail.com  
 https://cakeresume.com/wonjoong-cheon    
