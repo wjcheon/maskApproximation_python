@@ -1,6 +1,8 @@
 ## About this code  
 The script "main_211203.py" is wirtten for some points to express a segmentation mask.   
 
+Json -> Mask -> Edge -> Get points -> Contineous line sorting -> Re-sampling 
+
 <img src = https://github.com/wjcheon/maskApproximation_python/blob/master/result.png />
 Fig.1 A segmentation mask and Approximation points    
  
